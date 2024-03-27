@@ -71,7 +71,7 @@ export const Principal = styled.div`
 
   .maior img {
     width: 20vw;
-    height: auto;
+    height: 30vh;
     margin-left: 150px;
     margin-right: 175px;
     cursor: pointer;
